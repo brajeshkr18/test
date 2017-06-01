@@ -1,0 +1,4 @@
+2017-05-27 00:06:21,754 ERROR [6] SendMailClass.Mailer - Syntax error, command unrecognized. The server response was: Dovecot ready.
+2017-05-27 20:49:58,293 ERROR [6] SendMailClass.Mailer - Failure sending mail.
+2017-05-27 20:54:44,824 ERROR [6] SendMailClass.Mailer - Failure sending mail.
+2017-05-27 20:56:34,422 ERROR [5] SendMailClass.Mailer - Syntax error, command unrecognized. The server response was: Dovecot ready.
